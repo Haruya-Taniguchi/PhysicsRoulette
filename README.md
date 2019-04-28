@@ -4,5 +4,5 @@
 Xcode 10.2.1
 ##使用したライブラリ
 OpenSiv3D v0.3.1
-##動画
+動画
 https://twitter.com/taniguchi36993/status/1101811282091565056?s=20
