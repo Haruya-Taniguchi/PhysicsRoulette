@@ -1,6 +1,7 @@
 # PhysicsRoulette
 学校の同学科会の景品抽選のために作ったルーレット．物理演算でユニークな動きをする．
 <div align="center"><img src="https://i.gyazo.com/fae0011989e0a9cea258e9d08e961fb6.png" alt="image"  width="50%"></div>
+<<<<<<< HEAD
 
 ## 開発環境
 Xcode 10.2.1  
